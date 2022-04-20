@@ -1,0 +1,10 @@
+node_modules
+verifycode.png
+verifycode.jpg
+yarn.lock
+debug.js
+config.json
+.idea/
+.vscode/
+cookie.txt
+*.exe
